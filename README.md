@@ -1,8 +1,8 @@
 # HR-Analytics-Promotion-Prediction
 
-The objective of the "HR Analytics - Promotion Prediction" dataset is to utilize data analytics and machine learning techniques to predict employee promotion eligibility within an organization
+## The objective of the "HR Analytics - Promotion Prediction" dataset is to utilize data analytics and machine learning techniques to predict employee promotion eligibility within an organization
 
-Key Responsibilities and Achievements:
+## Key Responsibilities and Achievements:
 
 Conducted data preprocessing tasks such as data cleaning, missing value imputation, and feature engineering to prepare the dataset for analysis.
 
